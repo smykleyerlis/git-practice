@@ -19,3 +19,6 @@ git commit: Registra los cambios en el repositorio local.
 git push: Sube tus cambios locales a un repositorio remoto. Actualiza la rama remota con los cambios que has confirmado localmente.
 
 git merge: Fusiona dos ramas. Se utiliza para combinar cambios de una rama en otra.
+
+
+gracias
